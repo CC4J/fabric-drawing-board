@@ -1,4 +1,4 @@
-# iclass-drawing-borard
+# fabric-drawing-borard
 
 Aboutuse fabric to achievement drawing board and support free drawing, line, rect,cirlce,eraser,text,pan,scale,undo,redo,clear, save.
   
